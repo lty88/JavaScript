@@ -1,0 +1,8 @@
+*.xml
+*.rar
+*.zip
+*.wmv
+*.mp4
+node_modules/
+*.exe
+video/
